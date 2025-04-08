@@ -1,2 +1,3 @@
-# Front-end-form-validation-in-JavaScript
-Front-end form validation in JavaScript
+Name:MANZI Jean Bosco
+Reg:24RP02342
+Class:IT A
